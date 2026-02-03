@@ -1,6 +1,7 @@
 Hello, I'm Tim
 
 <a href="https://www.linkedin.com/in/timothy-sugianto/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 [Introduction]
 
 I am a cyber security graduate with a strong interest in technology and a passion to solving complex problems.
