@@ -2,17 +2,16 @@ Hello, I'm Tim
 
 <a href="https://www.linkedin.com/in/timothy-sugianto/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Introduction]
+## Introduction
 
 I am a cyber security graduate with a strong interest in technology and a passion to solving complex problems. I thrive in environments that challenge my analytical thinking, and I’m driven by the opportunity to protect systems, strengthen security posture, and contribute to safer digital usage.
 
 
-[Objective]
+## Objective
 
 My upbringing has led me to develop a passion for technology, and I am now eager to transition into cyber security, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
