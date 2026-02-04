@@ -23,7 +23,6 @@ My upbringing has led me to develop a passion for technology, and I am now eager
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -35,6 +34,9 @@ My upbringing has led me to develop a passion for technology, and I am now eager
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-CloudStrike-E01E2D?&style=for-the-badge" />
 </div>
+
+### Network
+<img src="https://img.shields.io/badge/-CloudTrail-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
 
 ### SIEM
 <div>
