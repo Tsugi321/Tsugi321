@@ -36,8 +36,10 @@ My upbringing has led me to develop a passion for technology, and I am now eager
     <img src="https://img.shields.io/badge/-CloudStrike-E01E2D?&style=for-the-badge" />
 </div>
 
-### Network
+### Cloud
+</div>
 <img src="https://img.shields.io/badge/-CloudTrail-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+</div>
 
 ### Virtual Machine
 <div>
