@@ -15,7 +15,7 @@ My upbringing has led me to develop a passion for technology, and I am now eager
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Tsugi321/Detection-Lab/blob/01f7879832e0d54c56933b8a75c7b32c5c0c52be/README.md">Detection Lab</a>|
 | Cloud log monitoring and attack detection     | <a href="https://google.com">Detection Lab</a>|
 | AWS IAM and S3 Abuse Detection	            | <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://google.com">Detection Lab</a>|
