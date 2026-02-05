@@ -16,7 +16,11 @@ My upbringing has led me to develop a passion for technology, and I am now eager
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Cloud log monitoring and attack detection     | <a href="https://google.com">Detection Lab</a>|
+| AWS IAM and S3 Abuse Detection	            | <a href="https://google.com">Detection Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://google.com">Detection Lab</a>|
+| Endpoint Detection and Response               | <a href="https://google.com">Detection Lab</a>|
+| Scripting and Automation for Threat Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
