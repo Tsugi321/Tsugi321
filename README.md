@@ -57,9 +57,14 @@ My upbringing has led me to develop a passion for technology, and I am now eager
     <img src="https://img.shields.io/badge/-Kali_Linux-268BEE?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
 </div>
 
-### SIEM
+### EDR
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+### SIEM
+</div>
+    <img src="https://img.shields.io/badge/-Wazuh-00A9E0?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ## Certifications
