@@ -24,6 +24,12 @@ My upbringing has led me to develop a passion for technology, and I am now eager
 
 ## Tools
 
+### Language
+
+<div>
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+</div>
 
 ### Network
 <div>
@@ -38,7 +44,7 @@ My upbringing has led me to develop a passion for technology, and I am now eager
 
 ### Cloud
 </div>
-<img src="https://img.shields.io/badge/-CloudTrail-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CloudTrail-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
 </div>
 
 ### Virtual Machine
