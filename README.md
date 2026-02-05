@@ -42,6 +42,7 @@ My upbringing has led me to develop a passion for technology, and I am now eager
 ### Virtual Machine
 <div>
     <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-268BEE?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
 </div>
 
 ### SIEM
