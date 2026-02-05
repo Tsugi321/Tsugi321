@@ -24,6 +24,7 @@ My upbringing has led me to develop a passion for technology, and I am now eager
 
 ## Tools
 
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -37,6 +38,11 @@ My upbringing has led me to develop a passion for technology, and I am now eager
 
 ### Network
 <img src="https://img.shields.io/badge/-CloudTrail-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+
+### Virtual Machine
+<div>
+    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
+</div>
 
 ### SIEM
 <div>
