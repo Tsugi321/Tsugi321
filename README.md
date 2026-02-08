@@ -15,12 +15,12 @@ My upbringing has led me to develop a passion for technology, and I am now eager
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Tsugi321/Detection-Lab/blob/01f7879832e0d54c56933b8a75c7b32c5c0c52be/README.md">Detection Lab</a>|
-| Cloud log monitoring and attack detection     | <a href="https://github.com/Tsugi321/Detection-Lab/blob/01f7879832e0d54c56933b8a75c7b32c5c0c52be/README.md">Detection Lab</a>|
-| AWS IAM and S3 Abuse Detection	            | <a href="https://github.com/Tsugi321/Detection-Lab/blob/01f7879832e0d54c56933b8a75c7b32c5c0c52be/README.md">Detection Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/Tsugi321/Detection-Lab/blob/01f7879832e0d54c56933b8a75c7b32c5c0c52be/README.md">Detection Lab</a>|
-| Endpoint Detection and Response               | <a href="https://github.com/Tsugi321/Detection-Lab/blob/01f7879832e0d54c56933b8a75c7b32c5c0c52be/README.md">Detection Lab</a>|
-| Scripting and Automation for Threat Detection | <a href="https://github.com/Tsugi321/Detection-Lab/blob/01f7879832e0d54c56933b8a75c7b32c5c0c52be/README.md">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Tsugi321/Active-Directory/blob/1327d5cfa152e7e00ccf037630717a80d18a9432/README.md">Detection Lab</a>|
+| Cloud log monitoring and attack detection     | <a href="https://github.com/Tsugi321/Active-Directory/blob/1327d5cfa152e7e00ccf037630717a80d18a9432/README.md">Detection Lab</a>|
+| AWS IAM and S3 Abuse Detection	            | <a href="https://github.com/Tsugi321/Active-Directory/blob/1327d5cfa152e7e00ccf037630717a80d18a9432/README.md">Detection Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/Tsugi321/Active-Directory/blob/1327d5cfa152e7e00ccf037630717a80d18a9432/README.md">Detection Lab</a>|
+| Endpoint Detection and Response               | <a href="https://github.com/Tsugi321/Active-Directory/blob/1327d5cfa152e7e00ccf037630717a80d18a9432/README.md">Detection Lab</a>|
+| Scripting and Automation for Threat Detection | <a href="https://github.com/Tsugi321/Active-Directory/blob/1327d5cfa152e7e00ccf037630717a80d18a9432/README.md">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
