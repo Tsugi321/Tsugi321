@@ -16,11 +16,14 @@ My upbringing has led me to develop a passion for technology, and I am now eager
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Tsugi321/Active-Directory/blob/1327d5cfa152e7e00ccf037630717a80d18a9432/README.md">Active Directory Lab</a>|
-| Cloud log monitoring and attack detection     | <a href="https://github.com/Tsugi321/Active-Directory/blob/1327d5cfa152e7e00ccf037630717a80d18a9432/README.md">Active Directory Lab</a>|
-| AWS IAM and S3 Abuse Detection	            | <a href="https://github.com/Tsugi321/Active-Directory/blob/1327d5cfa152e7e00ccf037630717a80d18a9432/README.md">Active Directory Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/Tsugi321/Active-Directory/blob/1327d5cfa152e7e00ccf037630717a80d18a9432/README.md">Active Directory Lab</a>|
+| Active Directory administration               | <a href="https://github.com/Tsugi321/Active-Directory/blob/1327d5cfa152e7e00ccf037630717a80d18a9432/README.md">Active Directory Lab</a>|
+| Network configuration and troubleshooting	    | <a href="https://github.com/Tsugi321/Active-Directory/blob/1327d5cfa152e7e00ccf037630717a80d18a9432/README.md">Active Directory Lab</a>|
+| Detection validation and event analysis       | <a href="https://github.com/Tsugi321/Active-Directory/blob/1327d5cfa152e7e00ccf037630717a80d18a9432/README.md">Active Directory Lab</a>|
 | Endpoint Detection and Response               | <a href="https://github.com/Tsugi321/Active-Directory/blob/1327d5cfa152e7e00ccf037630717a80d18a9432/README.md">Active Directory Lab</a>|
 | Scripting and Automation for Threat Detection | <a href="https://github.com/Tsugi321/Active-Directory/blob/1327d5cfa152e7e00ccf037630717a80d18a9432/README.md">Active Directory Lab</a>|
+| Cloud log monitoring and attack detection     | SOC Automation Lab|
+| AWS IAM and S3 Abuse Detection	            | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
