@@ -64,14 +64,12 @@ My upbringing has led me to develop a passion for technology, and I am now eager
 
 ### SIEM
 </div>
-    <img src="https://img.shields.io/badge/-Wazuh-00A9E0?&style=for-the-badge&logo=Wazuh&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Splunk_Enterprise-000000?style=for-the-badge&logo=Splunk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Wazuh-00A9E0?&style=for-the-badge&logo=Wazuh&logoColor=white"/> <img src="https://img.shields.io/badge/-Splunk_Enterprise-000000?style=for-the-badge&logo=Splunk&logoColor=white"/>
 </div>
 
 ### Adversary Simulation
 </div>
-<img src="https://img.shields.io/badge/-Hydra-000000?style=for-the-badge&logo=Linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Atomic_Red_Team-BD0000?style=for-the-badge&logo=RedHat&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Hydra-000000?style=for-the-badge&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/-Atomic_Red_Team-BD0000?style=for-the-badge&logo=RedHat&logoColor=white"/>
 </div>
 
 ## Certifications
