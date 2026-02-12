@@ -59,7 +59,6 @@ My upbringing has led me to develop a passion for technology, and I am now eager
 
 ### EDR
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-CloudStrike-E01E2D?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Sysmon-000000?style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
