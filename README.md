@@ -70,7 +70,7 @@ My upbringing has led me to develop a passion for technology, and I am now eager
 
 ### Adversary Simulation
 </div>
-<img src="https://img.shields.io/badge/-Hydra-000000?style=for-the-badge&logo=Linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Hydra-000000?style=for-the-badge&logo=Linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Atomic_Red_Team-BD0000?style=for-the-badge&logo=RedHat&logoColor=white" />
 </div>
 
