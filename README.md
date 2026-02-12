@@ -82,5 +82,5 @@ My upbringing has led me to develop a passion for technology, and I am now eager
 </div>
 
 ## Projects
-- Detection Lab
+- Active Directory Lab
 - SOC Automation Project
