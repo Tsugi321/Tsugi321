@@ -74,7 +74,7 @@ My upbringing has led me to develop a passion for technology, and I am now eager
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" href="https://github.com/Tsugi321/Active-Directory/blob/0b0864e16aaaf4a385bd41408b13d01a7dd4a5a6/README.md">Active Directory Lab</a>/>
+<a href="https://github.com/Tsugi321/Tsugi321/blob/006d2b60c5be8e957ca7e14e7a97064f00e12629/Generative%20AI.pdf" target="_blank"> <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/> </a>
 <img src="https://img.shields.io/badge/-Datacom-E4002B?&style=for-the-badge&logo=Datacom&logoColor=white"/>
 </div>
 
