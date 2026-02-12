@@ -57,7 +57,7 @@ My upbringing has led me to develop a passion for technology, and I am now eager
     <img src="https://img.shields.io/badge/-Kali_Linux-268BEE?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
 </div>
 
-### EDR
+### EDR/Telemetry
 <div>
     <img src="https://img.shields.io/badge/-CloudStrike-E01E2D?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Sysmon-000000?style=for-the-badge&logo=Microsoft&logoColor=white" />
