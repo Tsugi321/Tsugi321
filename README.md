@@ -77,7 +77,7 @@ My upbringing has led me to develop a passion for technology, and I am now eager
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
-<img src="https://img.shields.io/badge/-Datacom-E4002B?&style=for-the-badge&logo=Datacom&logoColor=white" />
+<img src="https://img.shields.io/badge/-Datacom-E4002B?&style=for-the-badge&logo=Datacom&logoColor=white"/>
 </div>
 
 ## Projects
