@@ -23,10 +23,10 @@ My upbringing has led me to develop a passion for technology, and I am now eager
 | Scripting and Automation for Threat Detection | <a href="https://github.com/Tsugi321/Active-Directory/blob/0b0864e16aaaf4a385bd41408b13d01a7dd4a5a6/README.md">Active Directory Lab</a>|
 | Cloud log monitoring and attack detection     | |
 | AWS IAM and S3 Abuse Detection	            | |
-| Incident Response Planning and Execution      | <a href="https://github.com/Tsugi321/SOC-Automation-Lab/blob/341dadde860a79d0c10978cb80d928a365fdf0ec/README.md">SOC Automation Lab</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/Tsugi321/SOC-Automation-Lab/blob/341dadde860a79d0c10978cb80d928a365fdf0ec/README.md">SOC Automation Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/Tsugi321/SOC-Automation-Lab/blob/341dadde860a79d0c10978cb80d928a365fdf0ec/README.md">SOC Automation Lab</a>|
-| Case Management with TheHive                  | <a href="https://github.com/Tsugi321/SOC-Automation-Lab/blob/341dadde860a79d0c10978cb80d928a365fdf0ec/README.md">SOC Automation Lab</a>|
+| Incident Response Planning and Execution      | SOC Automation Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab</a>|
+| Incident Response Planning and Execution      | SOC Automation Lab</a>|
+| Case Management with TheHive                  | SOC Automation Lab</a>|
 
 ## Tools
 
